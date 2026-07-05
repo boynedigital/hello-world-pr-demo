@@ -19,4 +19,4 @@ python greet.py Ada
 python -m unittest test_greet.py
 ```
 
-Feel free to fork this repo and practice opening your own pull requests aginst it.
+Feel free to fork this repo and practice opening your own pull requests against it.
